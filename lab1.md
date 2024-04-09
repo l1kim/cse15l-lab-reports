@@ -3,8 +3,13 @@
 ![Image](cd_file.png)  
 ![Image](ls_no_arg.png)  
 ![Image](ls_directory.png)  
+```
+C:\Users\raelu\lecture1\lecture1
+```  
 ![Image](ls_file.png)  
-`C:\Users\raelu\lecture1\Hello.java  
+```
+C:\Users\raelu\lecture1\Hello.java
+```  
 ![Image]()  
 ![Image]()  
 ![Image]()  
