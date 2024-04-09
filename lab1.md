@@ -4,6 +4,7 @@
 ![Image](ls_no_arg.png)  
 ![Image](ls_directory.png)  
 ![Image](ls_file.png)  
+`C:\Users\raelu\lecture1\Hello.java  
 ![Image]()  
 ![Image]()  
 ![Image]()  
