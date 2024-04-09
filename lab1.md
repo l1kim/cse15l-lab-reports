@@ -2,13 +2,15 @@
 C:\Users\raelu\lecture1
 ``` 
 ![Image](cd_no_arg.png)  
-  
+
+  ___
   
 ```
 C:\Users\raelu
 ``` 
 ![Image](cd_directory.png)  
-  
+
+  ___
   
 ```
 C:\Users\raelu\lecture1\messages
