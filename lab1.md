@@ -5,6 +5,9 @@
 
 ![Image](cd_file.png)  
 
+```
+C:\Users\raelu\lecture1\lecture1
+``` 
 ![Image](ls_no_arg.png)  
 
 ```
