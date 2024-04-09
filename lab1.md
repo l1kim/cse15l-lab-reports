@@ -1,15 +1,22 @@
+
 ![Image](cd_no_arg.png)  
+
 ![Image](cd_directory.png)  
+
 ![Image](cd_file.png)  
+
 ![Image](ls_no_arg.png)  
-![Image](ls_directory.png)  
+
 ```
 C:\Users\raelu\lecture1\lecture1
-```  
-![Image](ls_file.png)  
-```
+``` 
+![Image](ls_directory.png)  
+
+ ```
 C:\Users\raelu\lecture1\Hello.java
 ```  
+![Image](ls_file.png)  
+
 ![Image]()  
 ![Image]()  
 ![Image]()  
