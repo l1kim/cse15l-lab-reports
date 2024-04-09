@@ -19,12 +19,12 @@ C:\Users\raelu\lecture1
 ![Image](ls_no_arg.png)  
 
 ```
-C:\Users\raelu\lecture1\lecture1
+C:\Users\raelu\lecture1
 ``` 
 ![Image](ls_directory.png)  
 
  ```
-C:\Users\raelu\lecture1\Hello.java
+C:\Users\raelu\lecture1
 ```  
 ![Image](ls_file.png)  
 
