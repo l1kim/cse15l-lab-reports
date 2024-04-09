@@ -2,7 +2,7 @@
 C:\Users\raelu\lecture1
 ``` 
 ![Image](cd_no_arg.png)  
-The directory is moved back by 1 directory, so the working directory went from ```C:\Users\raelu\lecture1``` to ```C:\Users\raelu```.
+>The directory is moved back by 1 directory, so the working directory went from ```C:\Users\raelu\lecture1``` to ```C:\Users\raelu```.
   ***
   
 ```
