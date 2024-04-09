@@ -2,7 +2,7 @@
 ![Image](cd_directory.png)  
 ![Image](cd_file.png)  
 ![Image](ls_no_arg.png)  
-![Image]()  
+![Image](ls_directory.png)  
 ![Image]()  
 ![Image]()  
 ![Image]()  
