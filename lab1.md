@@ -37,20 +37,20 @@ A list of whatever is inside the specificed directory is printed.
 C:\Users\raelu\lecture1
 ```  
 ![Image](ls_file.png)  
-The name of the specified file is repeated.
-  ***
+The name of the specified file is repeated.  
+  ***  
   
 ```
 C:\Users\raelu\lecture1
 ```  
-![Image](cat_no_arg.png) 
+![Image](cat_no_arg.png)  
 Anything written after ```cat``` on its own is repeated. To quit the command, CTRL+D.
   ***
   
 ```
 C:\Users\raelu\lecture1
 ```  
-![Image](cat_directory.png)  
+![Image](cat_directory.png)   
 A statement is printed, letting the user know that the directory specified is a directory.
   ***
   
