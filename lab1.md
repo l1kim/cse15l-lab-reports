@@ -1,5 +1,5 @@
 ```
-C:\Users\raelu\lecture1\lecture1
+C:\Users\raelu\lecture1
 ``` 
 ![Image](cd_no_arg.png)  
 
