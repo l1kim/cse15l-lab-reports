@@ -9,7 +9,7 @@ C:\Users\raelu\lecture1\lecture1
 ![Image](cd_directory.png)  
 
 ```
-C:\Users\raelu\lecture1\messages
+C:\Users\raelu\lecture1\lecture1\messages
 ```
 ![Image](cd_file.png)  
 
