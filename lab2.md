@@ -51,10 +51,18 @@ class ChatServer {
 }
 ```
 
->Using `http://localhost:1030/add-message?s=Hello&user=l1kim`, I added a message.  
-
+>Using `http://localhost:1030/add-message?s=Hello&user=l1kim`, I added a message.
+>`/add-message` is called. It takes in a string for the message, and another string for the username.  
+>The value of `message` and `user` is updated to concatenate into `messages`.  
+>Then, the value of `messages` is updated with the new message, along with and indication of the user who wrote it.  
+  
 ![Image](chatmsg1.png)  
 
->Using `http://localhost:1030/add-message?s=How are you&user=l1kim`, I added a message.  
-
+    
+>Using `http://localhost:1030/add-message?s=How are you&user=l1kim`, I added a message.
+>`/add-message` is called. It takes in a string for the message, and another string for the username.  
+>The value of `message` and `user` is updated to concatenate into `messages`.  
+>Then, the value of `messages` is updated with the new message, along with and indication of the user who wrote it.  
+>The screen will display the new message, as well as all previous messages, because all the user messages are stored into one variable `messages`.  
+  
 ![Image](chatmsg2.png)  
