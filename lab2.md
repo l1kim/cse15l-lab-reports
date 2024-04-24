@@ -51,8 +51,8 @@ class ChatServer {
 }
 ```
 
->Using `http://localhost:1030/add-message?s=Hello&user=l1kim`, I added a message.
+>Using `http://localhost:1030/add-message?s=Hello&user=l1kim`, I added a message.  
 ![Image](chatmsg1.png)  
 
->Using `http://localhost:1030/add-message?s=How are you&user=l1kim`, I added a message.
+>Using `http://localhost:1030/add-message?s=How are you&user=l1kim`, I added a message.  
 ![Image](chatmsg2.png)  
