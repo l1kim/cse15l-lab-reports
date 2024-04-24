@@ -49,8 +49,8 @@ class ChatServer {
         Server.start(port, new Handler());
     }
 }
-```
-
+```  
+  
 >Using `http://localhost:1030/add-message?s=Hello&user=l1kim`, I added a message.
 >`/add-message` is called. It takes in a string for the message, and another string for the username.  
 >The value of `message` and `user` is updated to concatenate into `messages`.  
