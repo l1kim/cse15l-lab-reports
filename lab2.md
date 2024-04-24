@@ -67,6 +67,8 @@ class ChatServer {
   
 ![Image](chatmsg2.png)  
 
+***
+
 >Absolute path for private key
  
 ![Image](localpathkey.png)
