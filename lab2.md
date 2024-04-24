@@ -66,3 +66,6 @@ class ChatServer {
 >The screen will display the new message, as well as all previous messages, because all the user messages are stored into one variable `messages`.  
   
 ![Image](chatmsg2.png)  
+
+
+![Image](localpathkey.png) 
