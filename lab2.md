@@ -67,11 +67,14 @@ class ChatServer {
   
 ![Image](chatmsg2.png)  
 
->Absolute path for private key  
+>Absolute path for private key
+ 
 ![Image](localpathkey.png)
 
->Absolute path for public key  
+>Absolute path for public key
+
 ![Image](publickey.png)
 
->ssh login without password  
+>ssh login without password
+
 ![Image](sshlogin.png)  
