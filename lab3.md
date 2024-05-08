@@ -19,4 +19,4 @@ This is a non-failure inducing input:
 	}
 ```
 
-![Image](lab3 tests.png)
+![Image](lab3_tests.png)
