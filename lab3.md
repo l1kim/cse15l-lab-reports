@@ -41,4 +41,8 @@ New code:
       arr[arr.length - i - 1] = temp;
     }
   }
-```
+```  
+  
+  
+The fix addresses the issue because it holds the old values in a temporary variable so that once the arrays values are reversded in the first half, it doesnt copy the new values into the second half. 
+This ensures that the desired reversal is executed since we can call back the old values to complete the new array.
