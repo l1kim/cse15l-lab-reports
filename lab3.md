@@ -18,3 +18,5 @@ This is a non-failure inducing input:
     assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
+
+![Image](lab3 tests.png)
