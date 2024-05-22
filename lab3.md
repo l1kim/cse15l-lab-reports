@@ -49,7 +49,7 @@ This ensures that the desired reversal is executed since we can call back the ol
 
 
 
-I chose the `find` command. For all of the ways, I found them on the same website ([https://www.redhat.com/sysadmin/linux-find-command]). I googled ways to use the find command in linux to get to the site.
+I chose the `find` command. For all of the ways, I found them on the same website [https://www.redhat.com/sysadmin/linux-find-command]. I googled ways to use the find command in linux to get to the site.
 
 One way to use `find` is to find files with a certain type. (Source: [https://www.redhat.com/sysadmin/linux-find-command])
 ```
