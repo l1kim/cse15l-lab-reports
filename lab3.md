@@ -134,7 +134,7 @@ $ find -type f -empty
 ```
 I didn't find any empty files. I combine `-empty` with `-type` to specify I am only looking for a file that is empty.   
 
-A fourth way you can use it is limiting the amount of files that are returned with the find command.
+A fourth way you can use it is limiting the amount of files that are returned with the find command. (Source: [https://www.redhat.com/sysadmin/linux-find-command])
 ```
 $ find -maxdepth 1 -type d
 
