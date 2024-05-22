@@ -49,9 +49,9 @@ This ensures that the desired reversal is executed since we can call back the ol
 
 
 
-I chose the `find` command. For all of the ways, I found them on the same website [https://www.redhat.com/sysadmin/linux-find-command]. I googled ways to use the find command in linux to get to the site.
+I chose the `find` command. For all of the ways, I found them on the same website [here](https://www.redhat.com/sysadmin/linux-find-command) I googled ways to use the find command in linux to get to the site.
 
-One way to use `find` is to find files with a certain type. (Source: [https://www.redhat.com/sysadmin/linux-find-command])
+One way to use `find` is to find files with a certain type. ([Source](https://www.redhat.com/sysadmin/linux-find-command))
 ```
 $ find ~/Downloads/docsearch-main/docsearch-main/technical/911report -type f
 
@@ -93,7 +93,7 @@ $ find ~/Downloads/docsearch-main/docsearch-main/technical -type d
 This seaches all of the type directory within technical. This is helpful if you want to see what directories (and nothing else) are in this specific directory.  
 
 
-Another way to use `find` is searching a file by name.  (Source: [https://www.redhat.com/sysadmin/linux-find-command])
+Another way to use `find` is searching a file by name.  ([Source](https://www.redhat.com/sysadmin/linux-find-command))
 ```
 $ find -name "chapter*"
 
@@ -123,7 +123,7 @@ $ find -name "preface*"
 ```
 I am looking for any file with "preface" in the name within technical. This is helpful if I want to only see files with "preface" in the name that are within my working directory.  
 
-A third way to use this command is looking for empty files. (Source: [https://www.redhat.com/sysadmin/linux-find-command])
+A third way to use this command is looking for empty files. ([Source](https://www.redhat.com/sysadmin/linux-find-command))
 ```
 $ find -type d -empty
 ```
@@ -134,7 +134,7 @@ $ find -type f -empty
 ```
 I didn't find any empty files. I combine `-empty` with `-type` to specify I am only looking for a file that is empty.   
 
-A fourth way you can use it is limiting the amount of files that are returned with the find command. (Source: [https://www.redhat.com/sysadmin/linux-find-command])
+A fourth way you can use it is limiting the amount of files that are returned with the find command. ([Source](https://www.redhat.com/sysadmin/linux-find-command))
 ```
 $ find -maxdepth 1 -type d
 
