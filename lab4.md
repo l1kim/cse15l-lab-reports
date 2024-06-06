@@ -12,7 +12,6 @@ My ssh repository was in my clipboard as git@github.com:l1kim/lab7.git.
 I was able to clone my forked repository into my ssh.
 ```
 
-![Image](step6.png)  
 ![Image](step6(2).png)
 ```
 Keys pressed: <Ctrl v><enter><Ctrl v><enter>
@@ -22,11 +21,11 @@ The compile command was in my clipboard the first paste, then the run command wa
 I compiled my tests and ran them, which showed that the tests failed.
 ```
 
-![Image](step7.png)
+![Image](vim.png)
 ```
 I clicked on line 44 of my ListExamples.java file next to index 1.
-Keys pressed: <backspace>2<Ctrl s>
-This made the correct index update to its correctly corresponding list. Then I saved the changes to the file.
+Keys pressed: <insert><insert>2<esc>:wq<enter>
+This made the correct index update to its correctly corresponding list. Then I saved the changes and quit vim.
 ```
 
 ![Image](step8.png)
@@ -38,7 +37,7 @@ The compile command was 3 up in the history, and my bash command was 4 up in the
 I compiled and ran my tests again, this time they were successful.
 ```
 
-![Image](step9.png)
+![Image](fixed.png)
 ```
 Keys pressed: git<space>add<space>.<enter>g
 it<space>commit<space>-m<space>"commit"<enter>
